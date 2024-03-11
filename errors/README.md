@@ -1,0 +1,32 @@
+# Desafío - Datos de usuarios
+
+Nombre autoexplicativo del proyecto, con una breve descripción.
+
+## Descripción
+
+Una descripción más detallada y técnica del proyecto, incluyendo sus principales características, su propósito y cómo funciona.
+
+## Empezando 🚀
+
+Estas instrucciones te guiarán para obtener una copia de este proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
+
+```bash
+git clone url-github
+```
+
+### Prerrequisitos 📋
+
+Lista de software y herramientas, incluyendo versiones, que necesitas para instalar y ejecutar este proyecto:
+
+- Sistema Operativo (por ejemplo, Ubuntu 20.04, Windows 10, MacOS 10.15)
+- Navegador (Firefox, Chrome, Safari)
+
+### Construido Con 🛠️
+
+HTML - Estructura básica.
+JavaScript - El lenguaje utilizado.
+
+### Autores
+
+Bryan Díaz - trabajo inicial.
+Manuel Huenuqueo Vidal - revisión de código y documentación.
